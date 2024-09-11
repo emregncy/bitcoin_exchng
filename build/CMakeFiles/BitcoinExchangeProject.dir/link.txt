@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/BitcoinExchangeProject.dir/src/bitcoin.cpp.o -o BitcoinExchangeProject  /usr/lib/x86_64-linux-gnu/libcurl.so

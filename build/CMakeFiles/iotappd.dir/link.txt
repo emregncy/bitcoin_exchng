@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/iotappd.dir/src/bitcoin.cpp.o -o iotappd

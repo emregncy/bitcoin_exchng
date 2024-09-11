@@ -1,0 +1,7 @@
+/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/build/CMakeFiles/PROJECT_NAME.dir
+/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/build/CMakeFiles/edit_cache.dir
+/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/build/CMakeFiles/rebuild_cache.dir
+/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/build/CMakeFiles/list_install_components.dir
+/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/build/CMakeFiles/install.dir
+/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/build/CMakeFiles/install/local.dir
+/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/build/CMakeFiles/install/strip.dir

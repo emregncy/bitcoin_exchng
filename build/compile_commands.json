@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/build",
+  "command": "/usr/bin/c++  -I/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/include -g -std=gnu++20 -o CMakeFiles/PROJECT_NAME.dir/src/bitcoin.cpp.o -c /home/emre/Desktop/emreg-20240717T192755Z-001/emreg/src/bitcoin.cpp",
+  "file": "/home/emre/Desktop/emreg-20240717T192755Z-001/emreg/src/bitcoin.cpp",
+  "output": "CMakeFiles/PROJECT_NAME.dir/src/bitcoin.cpp.o"
+}
+]
